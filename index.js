@@ -12,6 +12,8 @@ function yourAnimal() {
   return animal
 }
 
+var n = 300
+var two = 2
 function add2(n) {
   return n + two
 
